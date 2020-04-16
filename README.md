@@ -1,4 +1,10 @@
-## Profitable App Profiles for the App Store and Google Play Markets
+# Profitable App Profiles for the App Store and Google Play Markets
 
-### Project Intro / Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+## Project Objects
+The purpose of this project is to analyze data to help developers understand what type of apps are likely to attract more users on Google Play and the App Store. 
+
+## Technologies
+- Python
+- Jupyter Notebook
+
+
